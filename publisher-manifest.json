@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "930c903e2488b2704f227e5c",
+  "owner": "cyhttgr",
+  "repo": "page-a8af6fe214099eebe37317ec",
+  "title": "红杏",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a8af6fe214099eebe37317ec",
+      "a": "红杏",
+      "b": "2027最新官网",
+      "entity": "红杏",
+      "brand": "红杏",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0ba951f738cf4fa21b23ddb2d7370320550cdc41b45843bd7d9b611ce8f77089",
+      "content": {
+        "primary_entity": "红杏",
+        "keyword1": "红杏",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选对应客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "按需选择套餐，用订阅链接完成配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连上更快",
+          "AI_DESCRIPTION": "，面向需要稳定海外网络的用户，提供基础版、旗舰版与团队版三档套餐。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，含 IPLC 专线与原生流媒体解锁；团队版每月 1000GB 流量、支持 20 台设备，可定制路由。按年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURES_INTRO": "围绕套餐档位、设备数量和订阅周期，选择适合的加速方案。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB / 旗舰版 300GB / 团队版 1000GB，按用量挑选。",
+          "AI_FEATURE_TEXT_2": "同时在线设备从 3 台到 20 台，覆盖个人、家庭与小型团队。",
+          "AI_FEATURE_TEXT_3": "三档均支持按年付，年付价格低于逐月订阅，适合长期使用。",
+          "AI_FEATURE_TITLE_1": "流量分档",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "计费周期",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，三步即可上手。",
+          "AI_GUIDE_TITLE": "三步配置",
+          "AI_HERO_INTRO": "红杏提供多档海外加速套餐，覆盖日常浏览、流媒体与游戏加速需求，按流量和设备数选择，订阅后导入客户端即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需匹配设备",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，适合轻量使用",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线，游戏加速更稳",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备与定制路由",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与节点权限上有明显差别，按使用强度对比即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量与同时在线设备数，在基础版、旗舰版、团队版中选择合适档位。",
+          "AI_STEP_TEXT_2": "确认所用设备系统与套餐设备上限，查看对应客户端的适配要求。",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅链接，按客户端文档完成节点与代理配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "红杏多档加速套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、付费周期与节点选择。",
+          "AI_FAQ_QUESTION_1": "红杏支持哪些设备使用？",
+          "AI_FAQ_ANSWER_1": "红杏提供多个平台的客户端，覆盖 Windows、macOS、iOS、Android 等常见系统，部分路由器也可配置。具体适配情况请参考各客户端文档，按设备类型选择对应版本。",
+          "AI_FAQ_QUESTION_2": "一个账号可以几台设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。可根据实际设备数量选择合适的套餐，避免超出限制影响使用。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费灵活，年付一次性支付更优惠。基础版年付150元，旗舰版年付350元，团队版年付850元。长期使用建议选择年付方案，折算每月费用更低。",
+          "AI_FAQ_QUESTION_4": "如何导入订阅链接？",
+          "AI_FAQ_ANSWER_4": "购买套餐后获取订阅链接，在对应客户端中找到订阅管理或配置导入入口，粘贴链接并更新即可。不同客户端操作略有差异，可参照客户端文档逐步完成。",
+          "AI_FAQ_QUESTION_5": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_5": "套餐内流量按月计算，用完后可通过续费或升级套餐获取更多流量。旗舰版300GB、团队版1000GB，适合流量需求较大的用户。可在账户内查看当前用量。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kq5mx43p.com",
+    "host": "xn--9kq5mx43p.com"
+  },
+  "file_hashes": {
+    "index.html": "966849350749d348fa87cc6e4bd488c1611bf6ca0831194f6dec19123b152678",
+    "sitemap.xml": "3150ead2eea43072915cee154a32d9d6c0ecc90199d896b04e0bd997d5b4d39e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2252eeae5b69b6dd70719e386042e54cae693e46adf1e407f9cad196a19afeb1",
+    "robots.txt": "c0a421f27b71e14712a3e22d34297f13cc99948d1d5f9169ebeede5642ea0e0c",
+    "3e31a7e9a698184c63b396139442fed2.txt": "c1d3db6d97f395f8e0c17bd2e1864d8cc8a2d3be84e4e4470e7de6a330a70273"
+  },
+  "revision": "91dee3ed16bad56b663eace3471d824b85246ec401c43a65ba0f12ff0f459020"
+}
